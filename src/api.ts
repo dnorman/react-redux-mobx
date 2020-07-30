@@ -19,7 +19,7 @@ export const getBurgers = async (): Promise<Product[]> => {
     await delay(1);
 
     return [
-        { name: "beef", displayName: "Beef Burfer", price: 5 },
+        { name: "beef", displayName: "Beef Burger", price: 5 },
         { name: "chicken", displayName: "Chicken Burger", price: 4 },
         { name: "vegan", displayName: "Vegan Burger", price: 4 }
     ]

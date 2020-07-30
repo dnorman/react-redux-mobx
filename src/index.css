@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-form {
+/* form {
   width: 40%;
   margin: auto;
 }
@@ -25,4 +25,4 @@ fieldset {
 fieldset > * {
   display: block;
   margin-bottom: 10px;
-}
+} */
